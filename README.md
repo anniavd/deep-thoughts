@@ -73,7 +73,17 @@ The license for which the application is covered:NONE
 
 
 # Technologies 
-
+- React
+- Javascript
+- MongoDB
+- Mongoose
+- Qraphql
+- Test
+- Bcrypt
+- Express
+- JWT
+- Moment
+- Heroku
 
 
 
