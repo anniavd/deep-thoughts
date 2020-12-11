@@ -51,12 +51,12 @@ Deep Thoughts is a social media application to share thoughts and reactions abou
  ![ login form](client/src/images/login.jpg)
 
 
-- The user once logged in can add a pansamiento to publish as shown below.
+- The user once logged in can add a thought to publish as shown below.
 
  ![create a thought](client/src/images/homepage-login.jpg)
 
 
-- Once logged  the user is shown a way to write a thought and the associated friendships he or she has or else shows him a message inviting him to make friends.
+- Once logged  the user is shown a way to write a thought and the associated friendships he or she has or else shows him a message inviting him to make friends  clicking on menu `Me`.
 
  ![page ](client/src/images/me.jpg)
 
